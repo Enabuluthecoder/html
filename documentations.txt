@@ -66,6 +66,7 @@
 <!-- the full syntax for image is [alt="image alternative" height="100" width="500">]--> used to reduce or size images
 <!-- you can download images into your downloads and do drag and drop into vscode-->
 ./     --- this means current directory and can be used to drop images on designs
-
+<a href="can also be used to add pdf files"
+use can use the download option on pdf to automatically download files
 
 

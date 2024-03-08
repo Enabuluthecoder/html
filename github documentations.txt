@@ -35,4 +35,13 @@ steps:
 go to terminal in your vscode and goto specific path  of folder
 -- now check that you are in the same folder(thats path is same as your project)
 follow the   git command in github.com
-
+1. git init-- start the git
+2. git add (file name)/(.)-- for all the files--git add file name /git add
+3. git commit -m "new code"( m is message--so you type what ever the changes you have made, like backgroung changes etc)
+clear is used to clear the prompt
+it keeps track of your code versions
+for the first time when you are commiting, it will ask you to authourise
+git config--global user.email"email id"
+git config --global user.name"username"
+4. git remote add origin https://github.com/Enabuluthecoder/html.git
+5. git push -u origin master
