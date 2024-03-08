@@ -1,0 +1,38 @@
+Git is a software that keeps your logs
+Also called version control system. controls different version of a software
+Why version control:thats when multiple people are working on a project
+--collaboration
+--versioning
+--Rolling Back
+--Understanding
+We have 2 types, 
+--CVS-central version control system
+--Distribution version control system- every developer will keep their own copy and will only do revison on their copy and not the server
+Every developer will put the code in Github
+Git is a  software
+..download from git-scm.com/downloads
+https://git-scm.com/download/win
+images are inline elements
+images can downloaded and url can be copy and used
+when images are not available, we use the "alt="alternate image""
+
+to make your website into a live website, first and download Git
+install Git, check the version of git on windows CMD, by typing git  -v 
+git is just a version control system, central(main copy) and distributed(only copy)
+This used to push your code for other developers to see .
+Visit GIthub.com to create a free account
+to use temperorary email temp mail(temp mail.org), then copy and used  the email
+repository in github are like folders, and should be created
+create a repository for the project you are working on
+then go back to vscode
+summary
+download and install GIT
+check git version and check it on windows cmd using git -v
+go to github.com and create an accont
+create one repository(like a folder) in github
+now push your code to github
+steps:
+go to terminal in your vscode and goto specific path  of folder
+-- now check that you are in the same folder(thats path is same as your project)
+follow the   git command in github.com
+
