@@ -1,0 +1,16 @@
+container elements is <div> is the most common container elements
+container elements are used to wrapped up some elements into one single elements
+General block container is Div elements
+General inline container is <Span>
+bold<b> and strong<strong>
+the search engine would prefer strong to bold,so use the element tags that the browser would most likely use
+Semantic elements:  this describe the container eg 
+header,footer,main,section,articles,etc...., these are used by the browser to identify sections of the web
+Master the use of defination list--dl and dd
+go to freepik,com---enter the website and type images
+or visit unsplash.com
+for icons visit fontawesome.com/icons
+search for any icon you want and click on it,copy the code and paste in your vscode
+this code will not be recognised by your vs code , so do this
+google search(font-awesome cdn),click on liberaries, copy the first link which will give you access to all the images in the liberary
+paste this link in the <head> of your vscode and you are good to go
