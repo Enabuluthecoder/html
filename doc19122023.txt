@@ -15,3 +15,5 @@ this code will not be recognised by your vs code , so do this
 google search(font-awesome cdn),click on liberaries, copy the first link which will give you access to all the images in the liberary
 paste this link in the <head> of your vscode and you are good to go
 kindly note that (./ ) is used to add pdf files and jpeg images into vscode
+how to lauch your codes directly from github. follow the following steps
+Go to github and then click on settings, click pages,under branch change to master and save. 
