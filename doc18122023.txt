@@ -7,7 +7,7 @@ html>head+body
 Basic program(Hello World)
 heading(hi-h6)
 <p> for paragragh
-<a tile="" target="_blank" href="" ><a/>
+<a title="" target="_blank" href="" ><a/>
 href="mailto:emailaddress"> mail<a/>
 href="tel:066400000"> call me<a/>
 <img src=""./(files in the same folder like images and pdfs, downloads(to automatically download files) 
