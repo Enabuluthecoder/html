@@ -2,3 +2,11 @@ step 1: download and install git
 step 2: enter cmd prompt and type git -v(to see version of Git)
 creat a folder on desktop or any place of your choice
 note that you can open vscode from cmd prompt by typing folder name and typing code
+git commands
+command 1: git init
+command 2: git add .
+command 3: git commot -m "message"
+git config --global user.email "mail id"
+git config --global user.name "username"
+command 4: git remote add origin "link"
+command 5: git push -u origin main/master

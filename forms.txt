@@ -1,0 +1,11 @@
+Forms:
+are used for 
+registration,login,ticket,bank application,kyc,admission forms,questioonaires,google forms, feedback forms,job applocation Forms
+Forms can be divided into 2
+--Displaying forms
+--Validating forms
+forms are sent to http://127.0.0.1:5500/main.py?.....That is where the file woll be sent to at the back end server
+http://127.0.0.1:5500/main.py?n1=bash&e1=bash%40gmail.com-----when name and email are specified
+
+
+
